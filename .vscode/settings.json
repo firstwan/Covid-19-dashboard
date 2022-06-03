@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.port": 8050,
+    // "liveServer.settings.root": "/src/app.py",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "python /app.py"
+}
